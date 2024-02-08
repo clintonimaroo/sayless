@@ -1,0 +1,4 @@
+[console_scripts]
+sayless = sayless.cli.core:app
+sl = sayless.cli.core:app
+
