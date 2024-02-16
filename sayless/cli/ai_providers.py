@@ -95,4 +95,4 @@ class OpenAIProvider(AIProvider):
             except Exception as e:
                 console.print("[red]Error: Failed to generate message with OpenAI[/red]")
                 console.print(f"[red]Details: {str(e)}[/red]")
-                raise 
+                raise # Modified on 2025-05-18 08:20:00
