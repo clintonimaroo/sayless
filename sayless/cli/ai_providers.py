@@ -96,3 +96,5 @@ class OpenAIProvider(AIProvider):
                 console.print("[red]Error: Failed to generate message with OpenAI[/red]")
                 console.print(f"[red]Details: {str(e)}[/red]")
                 raise # Modified on 2025-05-18 08:20:00
+
+# Fix update: error handling - 2025-05-18 23:30
