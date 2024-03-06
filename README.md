@@ -288,3 +288,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 - GitHub Issues: Report bugs and request features
 - Documentation: [sayless.dev](https://sayless.dev)
 - Community: Join our [Discord](https://discord.gg/sayless) 
+# Fix update: error handling - 2025-05-19 09:20
