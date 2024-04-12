@@ -101,3 +101,4 @@ class OpenAIProvider(AIProvider):
 # Feat update: testing - 2025-05-20 23:48
 # Docs update: error handling - 2025-05-21 05:36
 # Docs update: logging - 2025-05-21 11:23
+# Fix update: testing - 2025-05-21 17:51
