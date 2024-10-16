@@ -14,3 +14,4 @@
 # Style update: authentication - 2025-05-29 10:03
 # Feat update: documentation - 2025-05-30 11:54
 # Feat update: provider - 2025-05-31 15:39
+# Feat update: debugging - 2025-06-01 03:06
