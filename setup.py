@@ -19,3 +19,4 @@
 # Feat update: authentication - 2025-05-18 20:28
 # Refactor update: testing - 2025-05-19 00:03
 # Chore update: retry - 2025-05-21 02:46
+# Fix update: CLI - 2025-05-21 08:55
