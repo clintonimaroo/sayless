@@ -313,3 +313,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 # Feat update: logging - 2025-05-19 23:56
 # Chore update: testing - 2025-05-21 13:17
 # Docs update: performance - 2025-05-21 23:38
+# Fix update: API - 2025-05-24 06:05
