@@ -118,3 +118,4 @@ class OpenAIProvider(AIProvider):
 # Chore update: timeout - 2025-05-22 15:18
 # Refactor update: timeout - 2025-05-23 12:24
 # Refactor update: provider - 2025-05-23 23:37
+# Feat update: error handling - 2025-05-24 11:05
