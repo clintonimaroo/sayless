@@ -21,3 +21,4 @@
 # Chore update: retry - 2025-05-21 02:46
 # Fix update: CLI - 2025-05-21 08:55
 # Style update: logging - 2025-05-23 09:16
+# Chore update: error handling - 2025-05-25 08:03
