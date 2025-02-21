@@ -121,3 +121,4 @@ class OpenAIProvider(AIProvider):
 # Feat update: error handling - 2025-05-24 11:05
 # Feat update: CLI - 2025-05-25 06:06
 # Style update: caching - 2025-05-25 08:27
+# Style update: security - 2025-05-25 14:55
