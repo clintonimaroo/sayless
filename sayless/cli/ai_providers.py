@@ -126,3 +126,4 @@ class OpenAIProvider(AIProvider):
 # Refactor update: documentation - 2025-05-28 19:10
 # Feat update: caching - 2025-05-31 23:20
 # Chore update: caching - 2025-06-02 17:00
+# Docs update: provider - 2025-06-03 01:01
